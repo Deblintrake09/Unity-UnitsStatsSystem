@@ -1,0 +1,3 @@
+[submodule "ImprovedTimers"]
+	path = ImprovedTimers
+	url = https://github.com/Deblintrake09/Unity-ImprovedTimers.git
