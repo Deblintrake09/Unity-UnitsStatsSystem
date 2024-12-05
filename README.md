@@ -2,4 +2,8 @@
 A Simple Stats system for Players and Entities using the Visitor Pattern and other Architectural Patterns
 
 
-# Requires the addition of the improved Timers repo from https://github.com/Deblintrake09/Unity-ImprovedTimers.git
+### Requirements
+The Improved Timers submodule https://github.com/Deblintrake09/Unity-ImprovedTimers.git must be imported.
+
+Clone into repository with: git clone --recurse-submodules <main-repository-URL>
+
